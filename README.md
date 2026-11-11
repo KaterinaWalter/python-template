@@ -1,4 +1,4 @@
-# Python Template for CS3 
+# Python Template
 
 This repository provides a simple **template** with `Python` starter code. You can create your own copy by clicking `Use This Template` whenever you need to start a new Python program. For **unit notes**, **project instructions**, and **helpful resources**, refer to our course website: 📖 [PythonDocs](https://coderina.dev/pythondocs/)
 
